@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="RequestDemo" time="32.378" tests="1" failures="0" errors="0">
+   <testsuite name="RequestDemo" tests="1" failures="0" errors="0" time="32.378" timestamp="2020-08-27 08:03:34" hostname="Donii - LAPTOP-OOE60HNH.lan" id="Test Suites/Request Demo/RequestDemo">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Arief\\Katalon\\Sprint 2\\MileApp_TestResult\\MileApp_Katalon\\Reports\\20200827_080329\\Request Demo\\RequestDemo\\20200827_080329"/>
+         <property name="logFiles" value="C:\\Arief\\Katalon\\Sprint 2\\MileApp_TestResult\\MileApp_Katalon\\Reports\\20200827_080329\\Request Demo\\RequestDemo\\20200827_080329\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Donii - LAPTOP-OOE60HNH.lan"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.5.5.1"/>
+         <property name="browser" value="Chrome 84.0.4147.135"/>
+         <property name="hostAddress" value="192.168.8.188"/>
+         <property name="sessionId" value="808bc3c07dc8c679b816b1fdc1baf6e4"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=\&quot;\&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Request Demo/RequestDemo" time="30.999" classname="Test Cases/Request Demo/RequestDemo" status="PASSED">
+         <system-out><![CDATA[2020-08-27 08:03:34 - [TEST_CASE][PASSED] - Test Cases/Request Demo/RequestDemo: Test Cases/Request Demo/RequestDemo
+
+2020-08-27 08:03:35 - [TEST_STEP][PASSED] - runFeatureFile("./Include/features/RequestDemo/requestDemo.feature"): Feature file: './Include/features/RequestDemo/requestDemo.feature' was passed
+
+2020-08-27 08:03:35 - [MESSAGE][INFO] - Starting run keyword runFeatureFile: './Include/features/RequestDemo/requestDemo.feature' and extract report to folder: 'C:\Arief\Katalon\Sprint 2\MileApp_TestResult\MileApp_Katalon\Reports\20200827_080329\Request Demo\RequestDemo\20200827_080329/cucumber_report/1598490215744'...
+
+2020-08-27 08:03:37 - [TEST_CASE][PASSED] - Start Test Case : SCENARIO requestDemo: SCENARIO requestDemo
+
+2020-08-27 08:03:37 - [TEST_STEP][PASSED] - request demo page: request demo page
+
+2020-08-27 08:03:37 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-08-27 08:03:37 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-08-27 08:03:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-08-27 08:03:45 - [MESSAGE][PASSED] - Navigate to 'https://dev.mile.app/request-demo' successfully
+
+2020-08-27 08:03:45 - [MESSAGE][PASSED] - request demo page
+
+2020-08-27 08:03:45 - [TEST_STEP][PASSED] - user input full name: user input full name
+
+2020-08-27 08:03:46 - [MESSAGE][PASSED] - Text 'Arief Rahman Hakim' is set on object 'Object Repository/Request Demo/input_Full_name'
+
+2020-08-27 08:03:50 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2020-08-27 08:03:50 - [MESSAGE][PASSED] - user input full name
+
+2020-08-27 08:03:50 - [TEST_STEP][PASSED] - user input email: user input email
+
+2020-08-27 08:03:51 - [MESSAGE][PASSED] - Text 'ariefrahmanhakim0104@gmail.com' is set on object 'Object Repository/Request Demo/input_Email'
+
+2020-08-27 08:03:54 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2020-08-27 08:03:54 - [MESSAGE][PASSED] - user input email
+
+2020-08-27 08:03:54 - [TEST_STEP][PASSED] - user input phone number: user input phone number
+
+2020-08-27 08:03:55 - [MESSAGE][PASSED] - Text '81292529514' is set on object 'Object Repository/Request Demo/input_Phone_number'
+
+2020-08-27 08:03:58 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2020-08-27 08:03:58 - [MESSAGE][PASSED] - user input phone number
+
+2020-08-27 08:03:58 - [TEST_STEP][PASSED] - user input company name: user input company name
+
+2020-08-27 08:03:59 - [MESSAGE][PASSED] - Text 'gunadarma' is set on object 'Object Repository/Request Demo/input_Company_name'
+
+2020-08-27 08:04:02 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2020-08-27 08:04:02 - [MESSAGE][PASSED] - user input company name
+
+2020-08-27 08:04:02 - [TEST_STEP][PASSED] - user klik request demo: user klik request demo
+
+2020-08-27 08:04:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Request Demo/button_Request_Demo' is clicked on
+
+2020-08-27 08:04:05 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2020-08-27 08:04:05 - [MESSAGE][PASSED] - user klik request demo
+
+2020-08-27 08:04:05 - [MESSAGE][PASSED] - Feature file: './Include/features/RequestDemo/requestDemo.feature' was passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-08-27 08:03:34 - [TEST_SUITE][PASSED] - RequestDemo: Test Cases/Request Demo/RequestDemo]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

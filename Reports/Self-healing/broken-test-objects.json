@@ -1,0 +1,64 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/pageLoginTiket/inputEmailFB",
+      "brokenLocator": "//input[@id\u003d\u0027email\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/pageLoginTiket/inputEmailFB_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Hotel/selectDestination",
+      "brokenLocator": "/html/body/div[4]/main/div/div[1]/div[2]/div/div[2]/div[1]/div/div[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Tujuan\u0027])[1]/following::div[5]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Hotel/selectDestination_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/test/Page_Facebook/input_Kata sandi_login",
+      "brokenLocator": "//input[@id\u003d\u0027u_0_0_aX\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//label[@id\u003d\u0027loginbutton\u0027]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/test/Page_Facebook/input_Kata sandi_login_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/TestLoginPesenHotelLogout/Page_Facebook/input_Kata sandi_login_1",
+      "brokenLocator": "//input[@id\u003d\u0027u_0_0_wg\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//label[@id\u003d\u0027loginbutton\u0027]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/TestLoginPesenHotelLogout/Page_Facebook/input_Kata sandi_login_1_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/TestLoginPesenHotelLogout/Page_Booking Hotel Murah Harga Promo, Pesan_4f9241/label",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/main/div/div/div[2]/div/div/div[4]/div[2]/div[2]/div/div/div/div/div[2]/div/div/label",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.checkbox-item.col-2 \u003e div.checkbox-wrap \u003e div.check.v3 \u003e label",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/TestLoginPesenHotelLogout/Page_Booking Hotel Murah Harga Promo, Pesan_4f9241/label_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Hotel/Select Hotel And Room/verifyLandingPageAfterLanjutPembayaran",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div/div[2]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Hotel/Select Hotel And Room/verifyLandingPageAfterLanjutPembayaran_position.png"
+    }
+  ]
+}

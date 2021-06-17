@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectBintang</name>
+   <tag></tag>
+   <elementGuidId>b93427a8-6c6d-474b-8da0-4fb841588e32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/main/div/div/div[2]/div/div/div[3]/div[3]/div[2]/div/div[2]/div/div[2]/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/div[@class=&quot;hotel-search-list&quot;]/div[@class=&quot;header-search-wrapper&quot;]/div[@class=&quot;filter-bar&quot;]/div[@class=&quot;container flex&quot;]/div[@class=&quot;filter-bar-content&quot;]/div[@class=&quot;popover-dropdown&quot;]/div[3]/div[@class=&quot;tix-pop-over top-bottom show&quot;]/div[@class=&quot;popover-dropdown-popover&quot;]/div[@class=&quot;popover-content&quot;]/div[@class=&quot;star-checkbox-wrapper&quot;]/div[@class=&quot;checkbox-item col-1&quot;]/div[@class=&quot;checkbox-wrap&quot;]/div[@class=&quot;check v3&quot;]/label[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/main/div/div/div[2]/div/div/div[3]/div[3]/div[2]/div/div[2]/div/div[2]/div/div/label</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div/label</value>
+   </webElementXpaths>
+</WebElementEntity>

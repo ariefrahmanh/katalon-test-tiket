@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verifyAfterSelectBintang</name>
+   <tag></tag>
+   <elementGuidId>08077230-f069-48ff-91f8-55cc6db12e28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-result</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/main/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-result</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Menampilkan 600+ akomodasi terbaik dengan harga terbaikTampilan Harga :per kamar per malamper kamar per malamTotal hargaHARRIS Hotel TebetTebet, Jakarta Selatan4.0Good(607)Pembatalan GratisSarapan GratisWifi Gratis+4 Hemat 10%IDR 719.000IDR 582.390per kamar per malamCentury Park HotelTanah Abang, Jakarta Pusat4.3Good(1524)InDOnesia CARESarapan GratisWifi Gratis+6 DITIKETIN🏨IDR 860.000IDR 775.376per kamar per malamAston Kartika Grogol Hotel And Conference CenterGrogol Petamburan, Jakarta Barat4.3Good(207)InDOnesia CAREPembatalan GratisSarapan Gratis+1+7 Recommended HotelIDR 1.489.268IDR 1.265.873per kamar per malamHotel Santika Premiere Slipi JakartaPalmerah, Jakarta Barat4.3Good(1089)InDOnesia CAREPembatalan GratisSarapan Gratis+1+3IDR 599.500per kamar per malamAston Priority Simatupang Hotel and Conference CenterPasar Minggu, Jakarta Selatan4.2Good(951)InDOnesia CAREWifi Gratis+6Penuh!Cek ketersediaan di tanggal lain.HARRIS Hotel &amp; Conventions Kelapa GadingKelapa Gading, Jakarta Utara4.2Good(981)InDOnesia CAREPembatalan GratisSarapan Gratis+1+6 Early Bird 41%IDR 958.000IDR 565.220per kamar per malamAmbhara Hotel JakartaKebayoran Baru, Jakarta Selatan3.7Good(292)InDOnesia CAREPembatalan GratisSarapan Gratis+1+5 Hemat 38%IDR 950.000IDR 530.100per kamar per malamHotel Ciputra Jakarta managed by Swiss-Belhotel InternationalGrogol Petamburan, Jakarta Barat4.2Good(1358)InDOnesia CAREPembatalan GratisSarapan Gratis+1+7IDR 525.000per kamar per malamHARRIS Suites fX SudirmanTanah Abang, Jakarta Pusat4.4Good(977)InDOnesia CAREPembatalan GratisSarapan Gratis+1+3 Hemat 20%IDR 988.000IDR 711.360per kamar per malamMillennium Hotel Sirih JakartaTanah Abang, Jakarta Pusat4.4Good(1327)InDOnesia CAREPembatalan GratisWifi Gratis+6 DITIKETIN🏨IDR 998.250IDR 528.274per kamar per malamSwiss-Belresidences Kalibata JakartaPancoran, Jakarta Selatan4.2Good(619)InDOnesia CAREPembatalan GratisSarapan Gratis+1+7 Early Bird 10%IDR 592.667IDR 533.401per kamar per malamAston Bellevue Radio DalamCilandak, Jakarta Selatan4.0Good(161)InDOnesia CAREPembatalan GratisSarapan Gratis+1+6 Recommended HotelIDR 652.500IDR 526.893per kamar per malamHoliday Inn Jakarta KemayoranPademangan Timur, Jakarta Utara4.4Good(1177)Pembatalan GratisSarapan GratisWifi GratisIDR 600.000per kamar per malamSisa 4 kamar lagi!Grand Whiz Poins Simatupang JakartaCilandak, Jakarta Selatan4.1Good(1259)Pembatalan GratisSarapan GratisWifi Gratis+4 Hemat 20%IDR 618.750IDR 460.350per kamar per malamHariston Hotel &amp; SuitesPenjaringan, Jakarta Utara4.1Good(143)Wifi Gratis+4Penuh!Cek ketersediaan di tanggal lain.Jambuluwuk Thamrin HotelMenteng, Jakarta Pusat4.1Good(35)Pembatalan GratisSarapan GratisWifi Gratis+2 DITIKETIN🏨IDR 746.033IDR 427.701per kamar per malamThe Kuningan SuitesSetiabudi, Jakarta Selatan3.8Good(642)Pembatalan GratisSarapan GratisWifi Gratis+3 Hemat 20%IDR 850.000IDR 612.000per kamar per malamThe Acacia Hotel JakartaSenen, Jakarta Pusat3.9Good(249)InDOnesia CAREPembatalan GratisSarapan Gratis+1+5 DITIKETIN🏨IDR 450.000IDR 396.900per kamar per malamGold Coast PIK Sea View Apartments by LongeStayPenjaringan, Jakarta Utara4.3GoodWifi Gratis+4 Member Deals 3%IDR 470.000IDR 455.900per kamar per malamSisa 2 kamar lagi!Menara Peninsula HotelPalmerah, Jakarta Barat4.1Good(415)InDOnesia CAREBayar di HotelPembatalan Gratis+2+2IDR 399.001per kamar per malamSunlake HotelTanjung Priok, Jakarta Utara4.1Good(221)Bayar di HotelPembatalan GratisSarapan Gratis+2+6 Promo Pesanan Awal Harga termasuk diskon 20%IDR 768.439IDR 604.999per kamar per malamGrand Paragon HotelTaman Sari, Jakarta Barat3.7Good(25)Pembatalan GratisSarapan GratisWifi Gratis+2IDR 300.000per kamar per malamSisa 1 kamar lagi!Leisure Inn Arion HotelPulo Gadung, Jakarta Timur3.8Good(2)InDOnesia CARESarapan GratisWifi Gratis+3 Member Deals 10%IDR 754.445IDR 679.001per kamar per malamSisa 3 kamar lagi!AONE Hotel Jakarta Wahid HasyimMenteng, Jakarta Pusat4.2Good(1157)Pembatalan GratisSarapan GratisWifi Gratis+5 DITIKETIN🏨IDR 550.000IDR 495.880per kamar per malamOasis Amir HotelSenen, Jakarta Pusat3.6Good(92)InDOnesia CAREWifi Gratis+5IDR 468.268per kamar per malamLumire Hotel &amp; Convention CenterSenen, Jakarta Pusat4.2Good(164)InDOnesia CAREPembatalan GratisSarapan Gratis+1+4 DITIKETIN🏨IDR 745.728IDR 730.813per kamar per malamAryaduta Suite SemanggiGatot Subroto, Jakarta Selatan4.1Good(466)Pembatalan GratisSarapan GratisWifi Gratis+5 Member Deals 10%IDR 888.889IDR 800.001per kamar per malamGold Coast PIK Bahama Sea View ApartmentsPenjaringan, Jakarta Utara4.3GoodWifi Gratis+1 Hemat 8%IDR 488.000IDR 448.960per kamar per malamSisa 1 kamar lagi!Grand Tjokro JakartaGrogol Petamburan, Jakarta Barat3.8Good(351)InDOnesia CAREPembatalan GratisSarapan Gratis+1+4IDR 489.284per kamar per malamYuan Garden Pasar BaruSawah Besar, Jakarta Pusat4.3Good(960)InDOnesia CAREPembatalan GratisSarapan Gratis+1+6 DITIKETIN🏨IDR 720.000IDR 635.040per kamar per malamSebelumnya123...20Selanjutnya</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/div[@class=&quot;hotel-search-list&quot;]/div[@class=&quot;hotel-search-container&quot;]/div[@class=&quot;search-result&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/main/div/div[2]/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bintang hotel (tertinggi lebih dulu)'])[1]/following::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating (tertinggi lebih dulu)'])[1]/following::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div[2]/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

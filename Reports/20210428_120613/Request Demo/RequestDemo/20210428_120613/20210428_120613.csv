@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+RequestDemo,,,,2021-04-28 12:06:20,2021-04-28 12:06:33,13.452s,FAILED
+,,,,,,,
+Test Cases/Request Demo/RequestDemo,,,,2021-04-28 12:06:23,2021-04-28 12:06:33,9.944s,FAILED
+"runFeatureFile(""./Include/features/RequestDemo/requestDemo.feature"")",,,,2021-04-28 12:06:24,2021-04-28 12:06:33,9.041s,FAILED

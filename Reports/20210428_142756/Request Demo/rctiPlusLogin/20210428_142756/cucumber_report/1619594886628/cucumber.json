@@ -1,0 +1,71 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "loginRCTI",
+        "description": "",
+        "id": "loginrcti;loginrcti",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 16232823500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "login page rcti",
+            "match": {
+              "location": "RctiPlusLogin.request_demo_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2437866800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user input username",
+            "match": {
+              "location": "RctiPlusLogin.user_input_username()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3402807000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user input password",
+            "match": {
+              "location": "RctiPlusLogin.user_input_password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 14973414800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user klik login",
+            "match": {
+              "location": "RctiPlusLogin.user_klik_login()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "loginRCTI",
+    "description": "",
+    "id": "loginrcti",
+    "keyword": "Feature",
+    "uri": "C:/Users/arief.hakim/git/katalon-web-automation/./Include/features/RequestDemo/rctiPlusLogin.feature",
+    "tags": []
+  }
+]

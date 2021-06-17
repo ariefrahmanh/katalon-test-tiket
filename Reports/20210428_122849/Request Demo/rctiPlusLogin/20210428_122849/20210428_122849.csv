@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+rctiPlusLogin,,,,2021-04-28 12:28:54,2021-04-28 12:28:59,4.955s,FAILED
+,,,,,,,
+Test Cases/Request Demo/LoginRCTI,,,,2021-04-28 12:28:57,2021-04-28 12:28:59,1.879s,FAILED
+"runFeatureFile(""./Include/features/RequestDemo/rctiPlusLogin.feature"")",,,,2021-04-28 12:28:58,2021-04-28 12:28:59,1.036s,FAILED

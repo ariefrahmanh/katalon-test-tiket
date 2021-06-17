@@ -1,0 +1,76 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "BDD_TESTRUN_UUID": "065d3bd7-5678-4891-8ad6-2b681381cea3",
+        "line": 3,
+        "name": "loginRCTI",
+        "description": "",
+        "id": "loginrcti;loginrcti",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 13670344500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "login page rcti",
+            "match": {
+              "location": "RctiPlusLogin.request_demo_page()"
+            },
+            "keyword": "Given ",
+            "BDD_STEP_UUID": "b793d066-6fd6-4013-a91b-2978695757d7"
+          },
+          {
+            "result": {
+              "duration": 2475048400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user input username",
+            "match": {
+              "location": "RctiPlusLogin.user_input_username()"
+            },
+            "keyword": "When ",
+            "BDD_STEP_UUID": "3650c3c4-2ee1-4b3a-aece-c6b9290af627"
+          },
+          {
+            "result": {
+              "duration": 3027545400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user input password",
+            "match": {
+              "location": "RctiPlusLogin.user_input_password()"
+            },
+            "keyword": "Then ",
+            "BDD_STEP_UUID": "f1330619-8455-4aa1-bb01-ceb756c8d095"
+          },
+          {
+            "result": {
+              "duration": 12609402900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user klik login",
+            "match": {
+              "location": "RctiPlusLogin.user_klik_login()"
+            },
+            "keyword": "And ",
+            "BDD_STEP_UUID": "84e2387a-aa07-451a-ac0a-5be329f0d95f"
+          }
+        ]
+      }
+    ],
+    "name": "loginRCTI",
+    "description": "",
+    "id": "loginrcti",
+    "keyword": "Feature",
+    "uri": "C:/Users/arief.hakim/git/katalon-web-automation/./Include/features/RequestDemo/rctiPlusLogin.feature",
+    "tags": []
+  }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="29.139623">
+<testcase classname="loginRCTI" name="loginRCTI" time="29.139623">
+<system-out><![CDATA[Given login page rcti.......................................................passed
+When user input username....................................................passed
+Then user input password....................................................passed
+And user klik login.........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

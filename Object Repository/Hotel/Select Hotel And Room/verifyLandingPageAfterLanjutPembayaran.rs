@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verifyLandingPageAfterLanjutPembayaran</name>
+   <tag></tag>
+   <elementGuidId>b7892b8d-518b-450c-863d-a4755fede025</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card.form-card</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card form-card</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detail PemesanTitelTitelTuanNyonyaNonaNamaSeperti di KTP/Paspor/SIM (tanpa tanda baca dan gelar)Arief Rahman Hakim  Kode NegaraKode NegaraIndonesia (+62)Aruba (+297)Azerbaijan (+994)Botswana (+267)Angola (+244)Afghanistan (+93)Albania (+355)Canada (+1)Argentina (+54)Armenia (+374)Australia (+61)Bermuda (+1441)Central African Republic (+236)American Samoa (+1684)Bolivia (+591)Colombia (+57)Brunei (+673)China (+86)United Arab Emirates (+971)Bulgaria (+359)Belgium (+32)Barbados (+1246)DR Congo (+243)Burundi (+257)Cocos (Keeling) Islands (+61)Chile (+56)Cook Islands (+682)Ivory Coast (+225)Anguilla (+1264)Ãland Islands (+358)Benin (+229)Bangladesh (+880)Andorra (+376)Austria (+43)Burkina Faso (+226)Bahamas (+1242)Brazil (+55)Saint BarthÃ©lemy (+590)Belarus (+375)Antigua and Barbuda (+1268)Belize (+501)Bhutan (+975)Switzerland (+41)Bahrain (+973)Bosnia and Herzegovina (+387)Cameroon (+237)Republic of the Congo (+242)Costa Rica (+506)Comoros (+269)Cuba (+53)Cape Verde (+238)CuraÃ§ao (+5999)Christmas Island (+61)Germany (+49)Cayman Islands (+1345)Cyprus (+357)Czechia (+420)Denmark (+45)Djibouti (+253)Dominica (+1767)Dominican Republic (+1829)Dominican Republic (+1809)Algeria (+213)Ecuador (+593)Western Sahara (+212)Eritrea (+291)Dominican Republic (+1849)Egypt (+20)Spain (+34)Estonia (+372)Finland (+358)Ethiopia (+251)Fiji (+679)United Kingdom (+44)Gabon (+241)France (+33)Micronesia (+691)Faroe Islands (+298)Falkland Islands (+500)Guernsey (+44)Ghana (+233)Gibraltar (+350)Georgia (+995)Guinea (+224)Greece (+30)Grenada (+1473)Guinea-Bissau (+245)Guadeloupe (+590)Equatorial Guinea (+240)Gambia (+220)Guatemala (+502)French Guiana (+594)Hong Kong (+852)Guam (+1671)Guyana (+592)Honduras (+504)Greenland (+299)Hungary (+36)Isle of Man (+44)Haiti (+509)Croatia (+385)India (+91)Iraq (+964)British Indian Ocean Territory (+246)Iceland (+354)Israel (+972)Iran (+98)Ireland (+353)Jamaica (+1876)Italy (+39)Jordan (+962)Jersey (+44)Kazakhstan (+76)Japan (+81)Kyrgyzstan (+996)Kazakhstan (+77)Kiribati (+686)Cambodia (+855)Kenya (+254)Kuwait (+965)Kosovo (+383)Lebanon (+961)Saint Kitts and Nevis (+1869)South Korea (+82)Laos (+856)Sri Lanka (+94)Lesotho (+266)Liberia (+231)Saint Lucia (+1758)Libya (+218)Liechtenstein (+423)Luxembourg (+352)Latvia (+371)Lithuania (+370)Macau (+853)Saint Martin (+590)Monaco (+377)Mexico (+52)Moldova (+373)Maldives (+960)Morocco (+212)Madagascar (+261)Macedonia (+389)Marshall Islands (+692)Malta (+356)Myanmar (+95)Mali (+223)Montserrat (+1664)Mongolia (+976)Mauritania (+222)Montenegro (+382)Northern Mariana Islands (+1670)Mozambique (+258)Namibia (+264)Mayotte (+262)Mauritius (+230)Martinique (+596)Malawi (+265)Malaysia (+60)Niger (+227)Niue (+683)Norfolk Island (+672)Nigeria (+234)New Caledonia (+687)Nicaragua (+505)Nepal (+977)New Zealand (+64)Norway (+47)Nauru (+674)Netherlands (+31)Peru (+51)Panama (+507)Pakistan (+92)Pitcairn Islands (+64)Oman (+968)Papua New Guinea (+675)Puerto Rico (+1787)Palau (+680)Philippines (+63)Poland (+48)Paraguay (+595)French Polynesia (+689)Portugal (+351)Puerto Rico (+1939)Palestine (+970)North Korea (+850)Rwanda (+250)Russia (+7)Romania (+40)RÃ©union (+262)Qatar (+974)Sudan (+249)Singapore (+65)Senegal (+221)South Georgia (+500)Svalbard and Jan Mayen (+4779)Saudi Arabia (+966)Somalia (+252)Solomon Islands (+677)El Salvador (+503)Sierra Leone (+232)San Marino (+378)Saint Pierre and Miquelon (+508)Slovakia (+421)South Sudan (+211)Suriname (+597)SÃ£o TomÃ© and PrÃ­ncipe (+239)Serbia (+381)Seychelles (+248)Turks and Caicos Islands (+1649)Syria (+963)Sweden (+46)Sint Maarten (+1721)Slovenia (+386)Swaziland (+268)Tokelau (+690)Chad (+235)Timor-Leste (+670)Tonga (+676)Togo (+228)Turkmenistan (+993)Tajikistan (+992)Thailand (+66)Turkey (+90)Trinidad and Tobago (+1868)Uganda (+256)Tunisia (+216)Tuvalu (+688)Tanzania (+255)Taiwan (+886)Uzbekistan (+998)Ukraine (+380)Vatican City (+379)Uruguay (+598)Saint Vincent and the Grenadines (+1784)United States (+1)Vatican City (+3906698)Venezuela (+58)Samoa (+685)Wallis and Futuna (+681)United States Virgin Islands (+1340)Vanuatu (+678)Vietnam (+84)British Virgin Islands (+1284)Zimbabwe (+263)Zambia (+260)Yemen (+967)South Africa (+27)Nomor TeleponNomor TeleponAlamat EmailE-ticket akan dikirim ke alamat Email ini.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;booking-form&quot;]/div[@class=&quot;booking-form-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;card form-card&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Bisa Refund'])[1]/following::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo'])[1]/following::div[10]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

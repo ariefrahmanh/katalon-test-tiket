@@ -1,0 +1,95 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "requestDemo",
+        "description": "",
+        "id": "requestdemo;requestdemo",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8447947100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "request demo page",
+            "match": {
+              "location": "requestDemo.request_demo_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4171740600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user input full name",
+            "match": {
+              "location": "requestDemo.user_input_full_name()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4082478000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user input email",
+            "match": {
+              "location": "requestDemo.user_input_email()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3772730300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user input phone number",
+            "match": {
+              "location": "requestDemo.user_input_phone_number()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3762676200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user input company name",
+            "match": {
+              "location": "requestDemo.user_input_company_name()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3426895200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user klik request demo",
+            "match": {
+              "location": "requestDemo.user_klik_request_demo()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "requestDemo",
+    "description": "",
+    "id": "requestdemo",
+    "keyword": "Feature",
+    "uri": "C:/Arief/Katalon/Sprint 2/MileApp/./Include/features/RequestDemo/requestDemo.feature",
+    "tags": []
+  }
+]

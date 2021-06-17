@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="rctiPlusLogin" time="37.989" tests="1" failures="0" skips="0" errors="0">
+   <testsuite name="rctiPlusLogin" tests="1" failures="0" errors="0" time="37.989" skips="0" timestamp="2021-04-28 14:25:49" hostname="arief.hakim - MNCTVN05589.mncgroup.com" id="Test Suites/Request Demo/rctiPlusLogin">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\arief.hakim\\git\\katalon-web-automation\\Reports\\20210428_142543\\Request Demo\\rctiPlusLogin\\20210428_142543"/>
+         <property name="logFiles" value="C:\\Users\\arief.hakim\\git\\katalon-web-automation\\Reports\\20210428_142543\\Request Demo\\rctiPlusLogin\\20210428_142543\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\arief.hakim\\git\\katalon-web-automation\\Reports\\20210428_142543\\Request Demo\\rctiPlusLogin\\20210428_142543\\D:/Arief/Capture Katalon/login14-25-54.453.png, C:\\Users\\arief.hakim\\git\\katalon-web-automation\\Reports\\20210428_142543\\Request Demo\\rctiPlusLogin\\20210428_142543\\D:/Arief/Capture Katalon/landingPage14-25-54.453.png"/>
+         <property name="hostName" value="arief.hakim - MNCTVN05589.mncgroup.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.8.0.208"/>
+         <property name="browser" value="Chrome 87.0.4280.66"/>
+         <property name="hostAddress" value="172.20.10.4"/>
+         <property name="sessionId" value="c9fcb703fb75f8b14c261765b8729f9f"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Request Demo/LoginRCTI" time="34.247" classname="Test Cases/Request Demo/LoginRCTI" status="PASSED">
+         <system-out><![CDATA[2021-04-28 14:25:52 - [TEST_CASE][PASSED] - Test Cases/Request Demo/LoginRCTI: Test Cases/Request Demo/LoginRCTI
+
+2021-04-28 14:25:52 - [TEST_STEP][PASSED] - runFeatureFile("./Include/features/RequestDemo/rctiPlusLogin.feature"): Feature file: './Include/features/RequestDemo/rctiPlusLogin.feature' was passed
+
+2021-04-28 14:25:53 - [MESSAGE][INFO] - Starting run keyword runFeatureFile: './Include/features/RequestDemo/rctiPlusLogin.feature' and extract report to folder: 'C:\Users\arief.hakim\git\katalon-web-automation\Reports\20210428_142543\Request Demo\rctiPlusLogin\20210428_142543/cucumber_report/1619594753112'...
+
+2021-04-28 14:25:54 - [TEST_CASE][PASSED] - Start Test Case : SCENARIO loginRCTI: SCENARIO loginRCTI
+
+2021-04-28 14:25:54 - [TEST_STEP][PASSED] - login page rcti: login page rcti
+
+2021-04-28 14:25:55 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-04-28 14:25:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-04-28 14:26:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-04-28 14:26:02 - [MESSAGE][PASSED] - Current window maximized
+
+2021-04-28 14:26:08 - [MESSAGE][PASSED] - Navigate to 'https://rc-webd.rctiplus.com/login' successfully
+
+2021-04-28 14:26:08 - [MESSAGE][PASSED] - login page rcti
+
+2021-04-28 14:26:08 - [TEST_STEP][PASSED] - user input username: user input username
+
+2021-04-28 14:26:09 - [MESSAGE][PASSED] - Text 'qa_test@mailinator.com' is set on object 'Object Repository/Page Login RCTI/inputUsername'
+
+2021-04-28 14:26:10 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2021-04-28 14:26:10 - [MESSAGE][PASSED] - user input username
+
+2021-04-28 14:26:10 - [TEST_STEP][PASSED] - user input password: user input password
+
+2021-04-28 14:26:11 - [MESSAGE][PASSED] - Text 'dikakoko' is set on object 'Object Repository/Page Login RCTI/inputPassword'
+
+2021-04-28 14:26:12 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2021-04-28 14:26:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\arief.hakim\\git\\katalon-web-automation\\Reports\\20210428_142543\\Request Demo\\rctiPlusLogin\\20210428_142543\\D:/Arief/Capture Katalon/login14-25-54.453.png]]
+
+2021-04-28 14:26:13 - [MESSAGE][PASSED] - user input password
+
+2021-04-28 14:26:13 - [TEST_STEP][PASSED] - user klik login: user klik login
+
+2021-04-28 14:26:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page Login RCTI/buttonLogin' is clicked on
+
+2021-04-28 14:26:21 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2021-04-28 14:26:22 - [MESSAGE][PASSED] - Object 'Object Repository/Page Login RCTI/landingPage' is visible
+
+2021-04-28 14:26:25 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\arief.hakim\\git\\katalon-web-automation\\Reports\\20210428_142543\\Request Demo\\rctiPlusLogin\\20210428_142543\\D:/Arief/Capture Katalon/landingPage14-25-54.453.png]]
+
+2021-04-28 14:26:26 - [MESSAGE][PASSED] - Browser is closed
+
+2021-04-28 14:26:26 - [MESSAGE][PASSED] - user klik login
+
+2021-04-28 14:26:26 - [MESSAGE][PASSED] - Feature file: './Include/features/RequestDemo/rctiPlusLogin.feature' was passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-04-28 14:25:49 - [TEST_SUITE][PASSED] - rctiPlusLogin: Test Cases/Request Demo/LoginRCTI]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

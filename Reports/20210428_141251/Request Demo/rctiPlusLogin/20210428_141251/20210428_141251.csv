@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+rctiPlusLogin,Chrome 87.0.4280.66,,,2021-04-28 14:12:57,2021-04-28 14:14:54,1m - 57.048s,FAILED
+,,,,,,,
+Test Cases/Request Demo/LoginRCTI,Chrome 87.0.4280.66,,,2021-04-28 14:13:00,2021-04-28 14:14:54,1m - 53.438s,FAILED
+"runFeatureFile(""./Include/features/RequestDemo/rctiPlusLogin.feature"")",Chrome 87.0.4280.66,,,2021-04-28 14:13:01,2021-04-28 14:14:54,1m - 52.567s,FAILED
